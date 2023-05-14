@@ -13,7 +13,7 @@ export default function Home() {
               programming, and life in general.
             </p>
             <p className="mt-4 text-lg text-gray-700 leading-8">
-              Feel free to browse around and check out my latest posts. If you have any questions or comments, don't
+              Feel free to browse around and check out my latest posts. If you have any questions or comments
               hesitate
               to contact me.
             </p>
